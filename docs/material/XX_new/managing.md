@@ -1,1 +1,0 @@
-https://developers.google.com/machine-learning/managing-ml-projects
